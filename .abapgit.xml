@@ -14,10 +14,6 @@
     <item>/.gitlab-ci.yml</item>
     <item>/abaplint.json</item>
     <item>/azure-pipelines.yml</item>
-    <item>/src/zdj_test3.prog.abap</item>
-    <item>/src/zdj_test3.prog.xml</item>
-    <item>/src/zdj_test4.prog.abap</item>
-    <item>/src/zdj_test4.prog.xml</item>
    </IGNORE>
   </DATA>
  </asx:values>
