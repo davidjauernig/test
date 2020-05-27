@@ -6,4 +6,4 @@
 REPORT zdj_test2.
 
 WRITE 'test1'.
-WRITE 'test3'.
+WRITE 'test CB-123'.
